@@ -3,6 +3,8 @@
 <!--
 **Private-Storm/Private-Storm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Private-Storm GitHub stats](https://github-readme-stats.vercel.app/api?username=Private-Storm)](https://github.com/Private-Storm/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
