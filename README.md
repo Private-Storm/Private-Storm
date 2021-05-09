@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Private-Storm GitHub stats](https://github-readme-stats.vercel.app/api?username=Private-Storm)](https://github.com/Private-Storm/github-readme-stats)
+[![Private-Storm GitHub stats](https://github-readme-stats.vercel.app/api?username=Private-Storm&show_icons=true&theme=dark)](https://github.com/Private-Storm/github-readme-stats)
